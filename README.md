@@ -36,7 +36,11 @@ Some users:
 <a href="https://hyunwoo.info/" target="_blank">★</a>
 <a href="https://computervision0.github.io/" target="_blank">★</a>
 <a href="https://adrashid.github.io/personal-webpage/index.html" target="_blank">★</a>
-
+<a href="https://aleemkhan62.github.io/" target="_blank">★</a>
+<a href="https://vaibhavb007.github.io/" target="_blank">★</a>
+<a href="https://gabry993.github.io/" target="_blank">★</a>
+<a href="https://shantnuu.github.io/" target="_blank">★</a>
+<a href="https://wenbinluomath.github.io/" target="_blank">★</a>
 
 __If you are using this template, feel free to share your site with me and I'll add it here!__
 
@@ -119,7 +123,7 @@ HTML commands and CSS styles can be directly used in a markdown files.
 #### Publication page and database
 
 The publications and talks are now listed via Jekyll Scholar.
-The bibliography file `ref.bib` is located in the `cv/` directory.
+The bibliography file `ref.bib` is located in the `assets/` directory.
 Modify according to your needs.
 
 ## Hosting
